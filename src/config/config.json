@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "treicxwn_bounty",
+    "password": "bounty@123",
+    "database": "treicxwn_bounty",
+    "host": "103.212.121.53",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "treicxwn_bounty",
+    "password": "bounty@123",
+    "database": "treicxwn_bounty",
+    "host": "103.212.121.53",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "treicxwn_bounty",
+    "password": "bounty@123",
+    "database": "treicxwn_bounty",
+    "host": "103.212.121.53",
+    "dialect": "mysql"
+  }
+}
